@@ -1,0 +1,8 @@
+*.egg-info
+__pycache__
+.DS_Store
+*.png
+*.txt
+*.pkl
+*.pt
+*.zip
