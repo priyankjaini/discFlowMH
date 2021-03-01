@@ -1,4 +1,4 @@
-# discFlowMH
+# SurVAE Augmented MCMC for Combinatorial Spaces
 
 > Official code for [Sampling in Combinatorial Spaces with SurVAE Flow Augmented MCMC](https://arxiv.org/abs/2102.02374)  
 by Priyank Jaini, Didrik Nielsen, Max Welling.
